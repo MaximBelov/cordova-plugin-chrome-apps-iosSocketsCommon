@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-chrome-apps-iossocketscommon",
-  "version": "1.0.3-dev",
+  "version": "1.1.0-dev",
   "description": "This plugin provides common services for chrome.socket and chrome.sockets APIs on iOS.",
   "cordova": {
     "id": "cordova-plugin-chrome-apps-iossocketscommon",
